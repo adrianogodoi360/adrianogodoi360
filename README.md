@@ -1,0 +1,9 @@
+- 👋 olá,eu sou @adrianogodoi360...
+- 👀 eu estou interesado em aprender a programar .....
+- 🌱 estou recentemente aprendendo a progamar...
+- 📫 pode me contatar em meu email @adriano.godoi@escola.pr.gov.br
+
+<!---
+adrianogodoi360/adrianogodoi360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
